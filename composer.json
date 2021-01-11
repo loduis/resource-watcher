@@ -9,9 +9,9 @@
         }
     ],
     "require": {
-        "php": "^7.3",
-        "illuminate/support": "8.0.*",
-        "illuminate/filesystem": "8.0.*"
+        "php": "^7.4",
+        "illuminate/support": "^8.0",
+        "illuminate/filesystem": "^8.0"
     },
     "require-dev": {
         "mockery/mockery": ">=0.7.2"
